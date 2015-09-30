@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sarinregmi/Documents/Mine/RailsIssues/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/sarinregmi/Documents/Mine/RailsIssues/app/build/intermediates/pre-dexed/debug/classes-5e0a6c31aa5e4f9696aec6df36ac6761452ac349.jar" />
+    </item>
+    <item
+        jar="/Users/sarinregmi/Documents/Mine/RailsIssues/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/sarinregmi/Documents/Mine/RailsIssues/app/build/intermediates/pre-dexed/debug/classes-c162aa222852014808ff5dbd38ed7aa14bd40bca.jar" />
+    </item>
+    <item
+        jar="/Users/sarinregmi/Documents/Mine/RailsIssues/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/sarinregmi/Documents/Mine/RailsIssues/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-86d13a83e6dc7ec071f23cc845d2cbd8c95e7f01.jar" />
+    </item>
+    <item
+        jar="/Users/sarinregmi/bin/android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/sarinregmi/Documents/Mine/RailsIssues/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-f12701b7eb8942d018e13e7942580133f8465600.jar" />
+    </item>
+
+</items>

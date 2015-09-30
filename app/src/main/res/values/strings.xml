@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rails Issues</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading...</string>
+    <string name="no_comments"> No comments to show</string>
+    <string name="comments_title">Comments</string>
+</resources>
